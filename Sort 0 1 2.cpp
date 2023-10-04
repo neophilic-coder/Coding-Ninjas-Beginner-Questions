@@ -12,7 +12,6 @@ void sort012(int *arr, int n) {
        case 1:
          mid++;
          break;
-
        case 2:
          swap(arr[mid], arr[high]);
          high--;
