@@ -8,7 +8,6 @@ void sort012(int *arr, int n) {
          low++;
          mid++;
          break;
-
        case 1:
          mid++;
          break;
