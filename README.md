@@ -1,0 +1,1 @@
+This repository contains all the beginner level codes from Coding Ninjas Platform
